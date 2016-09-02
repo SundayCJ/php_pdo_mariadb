@@ -1,0 +1,9 @@
+html output.txt
+
+
+Start: mariadb with PDO connector_connect
+Yes PDO is installed in PHP connection successful Host: localhost
+Username: root
+Password:
+Database: LeBusDatabase1
+Table Name: usersbool(true) array(1) { [0]=> array(1) { ["first_name"]=> string(3) "Han" } } Array ( [0] => Array ( [first_name] => Han ) ) Han 
